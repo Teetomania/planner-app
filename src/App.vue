@@ -11,7 +11,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   max-width: 600px;
+  margin: 0 auto;
   color: #555;
-  margin-top: 0 auto;
 }
 </style>
